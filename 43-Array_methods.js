@@ -2,7 +2,6 @@
     Array methods:
 
     forEach(callback function);
-    
     every(callback function) kiem tra phan tu thoa man dieu kien;
         return bool
         function nay kiem tra tat ca phan tu
@@ -11,7 +10,8 @@
     some(callback function) cung <=> every nhung chi can 1 dk thoa man
         se return true;
     
-    find(callback function)
+    find(callback function) tra ve element khi thoa man yeu cau  
+    filter(callback) tra ve mang moi khi thoa man yeu cau    
 
     map()
 */
